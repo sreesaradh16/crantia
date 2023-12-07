@@ -33,9 +33,6 @@
     <!-- NOTIFICATION CSS -->
     <link href="{{asset('assets/plugins/notify/css/jquery.growl.css')}}" rel="stylesheet" />
 
-    <!--C3 CHARTS CSS -->
-    <link href="{{asset('assets/plugins/charts-c3/c3-chart.css')}}" rel="stylesheet" />
-
     <!-- CUSTOM SCROLL BAR CSS-->
     <link href="{{asset('assets/plugins/scroll-bar/jquery.mCustomScrollbar.css')}}" rel="stylesheet" />
 
@@ -129,12 +126,6 @@
     <script src="{{asset('assets/plugins/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
     <script src="{{asset('assets/plugins/bootstrap/js/popper.min.js')}}"></script>
 
-    <!-- SPARKLINE JS -->
-    <script src="{{asset('assets/js/jquery.sparkline.min.js')}}"></script>
-
-    <!-- CHART-CIRCLE JS -->
-    <script src="{{asset('assets/js/circle-progress.min.js')}}"></script>
-
     <!-- NOTIFICATIONS JS -->
     <script src="{{asset('assets/plugins/notify/js/rainbow.js')}}"></script>
     <script src="{{asset('assets/plugins/notify/js/sample.js')}}"></script>
@@ -142,9 +133,6 @@
 
     <!-- RATING STAR JS -->
     <script src="{{asset('assets/plugins/rating/jquery.rating-stars.js')}}"></script>
-
-    <!-- INPUT MASK JS -->
-    <script src="{{asset('assets/plugins/input-mask/jquery.mask.min.js')}}"></script>
 
     <!-- SWEET-ALERT JS -->
     <script src="{{asset('assets/plugins/sweet-alert/sweetalert.min.js')}}"></script>
